@@ -1,0 +1,10 @@
+{
+  "jenil": {
+    "limit": 150,
+    "used": 0
+  },
+  "royal": {
+    "limit": 1000,
+    "used": 0
+  }
+}
